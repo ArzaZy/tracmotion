@@ -1,0 +1,13 @@
+PAKET LENGKAP TRACMOTION
+
+1. Ekstrak ZIP ini.
+2. Buka folder project untuk source code Next.js.
+3. Buat repository GitHub `tracmotion`.
+4. Upload ISI folder project ke root repository.
+5. Buka Codespaces dan jalankan npm install lalu npm run dev.
+6. Buka folder prompts.
+7. Kirim PROMPT 01 ke Claude terlebih dahulu.
+8. Setelah tahap selesai, cek hasil dan commit ke GitHub.
+9. Lanjutkan prompt berikutnya satu per satu.
+
+Jangan menjalankan instalasi AM Runtime di frontend. Dokumentasi dan kebutuhan integrasi ada di docs/AM_RUNTIME_RESEARCH.md.
